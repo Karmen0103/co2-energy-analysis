@@ -63,6 +63,7 @@ All datasets are from **Our World in Data**:
 
 ## 📂 Notebook
 
+Fully reproducible analysis using Python (Pandas, NumPy, Matplotlib)
 The full analysis is available in the Jupyter Notebook included in this repository.
 
 ---
